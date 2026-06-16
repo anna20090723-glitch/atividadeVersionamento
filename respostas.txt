@@ -1,0 +1,1 @@
+git status : minha branch principal e o status dos meus commits
