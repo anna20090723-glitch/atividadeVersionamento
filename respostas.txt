@@ -1,1 +1,3 @@
 git status : minha branch principal e o status dos meus commits
+
+f823000 (HEAD -> master) feat: cria arquivo README inicialEvidência
