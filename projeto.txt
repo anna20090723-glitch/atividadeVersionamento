@@ -1,3 +1,7 @@
 Projeto de controle de Versões
 Responsável: Ana Vitória Pinheiro
 Curso: Progamador de FullStack
+Cronograma: 
+.Levantamento de requisitos
+.Desenvolvimento
+.Testes
